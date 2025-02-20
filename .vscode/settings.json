@@ -1,0 +1,21 @@
+{
+  "css.validate": false,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "true"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}

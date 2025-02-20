@@ -1,0 +1,29 @@
+{
+  "common": {
+    "login": "সাইন ইন",
+    "register": "অ্যাকাউন্ট তৈরি করুন",
+    "logout": "লগ আউট",
+    "dashboard": "ড্যাশবোর্ড",
+    "tasks": "টাস্ক",
+    "users": "ব্যবহারকারী",
+    "settings": "সেটিংস",
+    "withdraw": "উপার্জন তুলুন",
+    "total_earnings": "মোট উপার্জন",
+    "daily_earnings": "দৈনিক উপার্জন",
+    "commissions": "কমিশন",
+    "completed_tasks": "সম্পন্ন টাস্ক",
+    "daily_challenge": "দৈনিক চ্যালেঞ্জ",
+    "task_streak": "টাস্ক স্ট্রিক",
+    "top_earners": "শীর্ষ উপার্জনকারী",
+    "amount": "পরিমাণ",
+    "wallet_address": "ওয়ালেট ঠিকানা",
+    "cancel": "বাতিল",
+    "confirm": "নিশ্চিত করুন",
+    "processing": "প্রক্রিয়াকরণ হচ্ছে...",
+    "success": "সফল!",
+    "error": "ত্রুটি",
+    "forgot_password": "পাসওয়ার্ড ভুলে গেছেন?",
+    "email": "ইমেইল ঠিকানা",
+    "password": "পাসওয়ার্ড"
+  }
+}

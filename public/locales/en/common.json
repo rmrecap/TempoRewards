@@ -1,0 +1,29 @@
+{
+  "common": {
+    "login": "Sign in",
+    "register": "Create account",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "tasks": "Tasks",
+    "users": "Users",
+    "settings": "Settings",
+    "withdraw": "Withdraw Earnings",
+    "total_earnings": "Total Earnings",
+    "daily_earnings": "Daily Earnings",
+    "commissions": "Commissions",
+    "completed_tasks": "Completed Tasks",
+    "daily_challenge": "Daily Challenge",
+    "task_streak": "Task Streak",
+    "top_earners": "Top Earners",
+    "amount": "Amount",
+    "wallet_address": "Wallet Address",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "processing": "Processing...",
+    "success": "Success!",
+    "error": "Error",
+    "forgot_password": "Forgot your password?",
+    "email": "Email address",
+    "password": "Password"
+  }
+}
